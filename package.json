@@ -1,0 +1,21 @@
+{
+  "name": "rolos-mondrian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "postcss-uncss": "^0.16.1",
+    "uncss": "^0.16.2"
+  },
+  "devDependencies": {
+    "gulp-concat-css": "^3.1.0"
+  }
+}
